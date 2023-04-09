@@ -5,7 +5,7 @@
 Hi All, hope you had a great day, This is a little peak into what I have created as my first project and how to run it. This is a twitter tweets scrape project using sncrape. I really looking forward to know your reviews on how the project was worked and lookikng forward for your great contrubutions. 
 
 ## Instructions
-* To load the streamlit webpage/server, kindly run the "tweets.py" file. 
+* To load the streamlit webpage/server, Open the "tweets.py" file copy and paste the code. If your using pycharm kindly go to the terminal select the path where your py file was saved and type streamlit run tweets.py.
 
 ### Once the page was opened in your Browser:
 
